@@ -13,3 +13,12 @@ Even though it is unlikely that I would need to build or use a canvas it was coo
 Did not fully figure out how to get the MegaMenu working specifically based on the design, but on the right path.  MUI-Tooltip didn't seem like a great option either
 since it would require adjustments to the existing styles.
 **Link to work:**
+
+### Day 1: 1/3/2019
+
+**Today's Progress:**
+Learned how to select multiple checkboxes using shift click with JS30.  Going through CS50 Week 1 lecture learning C. some of the basics of programming: data types, operators, conditional statements and loops.
+
+**Thoughts:**
+Learning how to select multiple checkboxes using shift can be used in real world applications. I notice a lot of similarity between C and JS.
+**Link to work:**
