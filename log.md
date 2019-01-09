@@ -49,3 +49,12 @@ Watched a few clips of Node.js from Scott Moss on Frontend Masters. And did a sm
 **Thoughts:**
 Didn't get as much done as I wished. I would like to finish off Scott Moss's presentation on Node. Next finish attempt the problem set using cloud 9 and C.
 **Link to work:**
+
+### Day 6: 1/8/2019
+
+**Today's Progress:**
+Completed the first basic challenge from CS50, creating hello world in C. Relook at downshift (paypal) library to update autocomplete compononent.
+
+**Thoughts:**
+Wish I had more time to compelete more challenges, but will need to work on them tomorrow.
+**Link to work:**
