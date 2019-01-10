@@ -58,3 +58,12 @@ Completed the first basic challenge from CS50, creating hello world in C. Relook
 **Thoughts:**
 Wish I had more time to compelete more challenges, but will need to work on them tomorrow.
 **Link to work:**
+
+### Day 7: 1/9/2019
+
+**Today's Progress:**
+Did some minor refactoring to Products Page list adjusting some condition logic.  Used some JS methods some() and includes() to couple 3 different cases to a single fxn + array list.  This improvement made it easier to update any logic since it will only need to be done in one place.  Reviewed some old JS / React basic concepts. 
+
+**Thoughts:**
+Need to look into JS Async/Await examples
+**Link to work:**
