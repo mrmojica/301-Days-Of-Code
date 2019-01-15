@@ -67,3 +67,12 @@ Did some minor refactoring to Products Page list adjusting some condition logic.
 **Thoughts:**
 Need to look into JS Async/Await examples
 **Link to work:**
+
+### Day 8: 1/14/2019
+
+**Today's Progress:**
+Did a short review on node on deployment with heroku.
+
+**Thoughts:**
+Pretty nice how straight forward it is.
+**Link to work:**
