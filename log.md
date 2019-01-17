@@ -76,3 +76,12 @@ Did a short review on node on deployment with heroku.
 **Thoughts:**
 Pretty nice how straight forward it is.
 **Link to work:**
+
+### Day 9: 1/17/2019
+
+**Today's Progress:**
+Build basic statefull form for graphql mutation.
+
+**Thoughts:**
+Pretty nice how straight forward it is.
+**Link to work:**
